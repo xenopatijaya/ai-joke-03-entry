@@ -1,0 +1,1 @@
+I asked my AI coding agent to fix a one-character typo. It refactored 14 files, renamed two functions, and now the typo is the only line that still compiles.
